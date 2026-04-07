@@ -7,7 +7,7 @@ then
 
 echo "Restarting $service..."
 
-sleep 3 
+sleep 5 
 
 systemctl restart $service
 
